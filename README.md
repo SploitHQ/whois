@@ -79,7 +79,6 @@ Want to generate a whois command in your browser?
 
 ## 🔗 Useful Links
 
-- [whois man page](https://man7.org/linux/man-pages/man1/whois.1.html)
 - [whois Generator on SploitHQ](https://sploithq.com/whois)
 
 ---
